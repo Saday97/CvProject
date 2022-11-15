@@ -1,3 +1,7 @@
+*Entity Framework (DbFirst) *Authorize *Authentication *PagedList *ViewComponents *PartialView 
+* DesingPattern(GenericRepository) *Extension Method *Css *JavaScript *Html5 kullanmış bulunmaktayım ve projeden bazı görseller mevcuttur.
+
+
 ![Adsız](https://user-images.githubusercontent.com/109628634/201878450-9b1922dc-4e04-4f4e-92b6-8933bdadaf2f.png)
 ![deneyim](https://user-images.githubusercontent.com/109628634/201878456-388e84ab-589f-4d12-ad61-6767e70b7f66.png)
 ![Egitim](https://user-images.githubusercontent.com/109628634/201878460-e8476283-8074-4685-975e-cedcfde6677f.png)
@@ -8,5 +12,4 @@
 ![Yetenekler](https://user-images.githubusercontent.com/109628634/201878488-2a5ee9a9-2378-4cf1-99ae-950b13358354.png)
 # CvProject
 DynamicCvProject
-*Entity Framework (DbFirst) *Authorize *Authentication *PagedList *ViewComponents *PartialView 
-* DesingPattern(GenericRepository) *Extension Method *Css *JavaScript *Html5 kullanmış bulunmaktayım ve projeden bazı görseller mevcuttur.
+
